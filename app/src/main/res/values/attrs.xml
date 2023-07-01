@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EditTextPrimary">
+        <attr name="showPasswordToggle" format="integer|reference" />
+        <attr name="colorTextHint" format="color|reference" />
+        <attr name="textHint" format="string|reference" />
+        <attr name="boxStrokeColor" format="color|reference" />
+        <attr name="boxStrokeWidth" format="dimension|reference" />
+        <attr name="textInputType" format="integer|reference" />
+    </declare-styleable>
+
+</resources>
